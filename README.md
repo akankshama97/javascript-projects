@@ -2,11 +2,11 @@
 This repository contains **5 different JavaScript Projects** that I built to practice JavaScript, DOM Manipulation & API handling.
 
 ## 📂 Projects Included
-| 1 | 🌤️ Cloud Peek - Weather App | Check live weather of any city using API |
-| 2 | 🧮 Calculator | Basic calculator with all operations |
-| 3 | 💱 Currency Converter | Convert currency in real-time |
-| 4 | ❌⭕ Tic Tac Toe Game | Classic 2-player Tic Tac Toe game |
-| 5 | ✊✋✌️ Rock Paper Scissors | Fun Rock Paper Scissors game vs Computer |
+  🌤️ Cloud Peek - Weather App | Check live weather of any city using API 
+  🧮 Calculator | Basic calculator with all operations 
+  💱 Currency Converter | Convert currency in real-time 
+  ❌⭕ Tic Tac Toe Game | Classic 2-player Tic Tac Toe game 
+  ✊✋✌️ Rock Paper Scissors | Fun Rock Paper Scissors game vs Computer 
 
 ## ✨ What I Learned
 - JavaScript Basics & Logic Building
